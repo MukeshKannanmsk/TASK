@@ -1,0 +1,3 @@
+#myprops.txt
+#Tue Feb 20 15:22:46 IST 2024
+tn=madras
